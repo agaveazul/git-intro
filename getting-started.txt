@@ -1,3 +1,4 @@
 Hello, world!
 This is the second line of the file!
 Added this too.
+Rich was here!
